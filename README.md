@@ -10,7 +10,10 @@ $ pip install mlops
 
 ## Usage
 
-- TODO
+Instala librería
+Carga librería
+Utiliza ingest_data para cargar datos
+
 
 ## Contributing
 
